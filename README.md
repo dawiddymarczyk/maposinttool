@@ -79,4 +79,4 @@ An interactive HTML file (`carte_deplacements.html`) that you can open in any br
 
 ## 📝 License
 
-MIT
+GNU GENERAL PUBLIC LICENSE
